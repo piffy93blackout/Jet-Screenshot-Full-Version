@@ -238,4 +238,4 @@ This repository serves as the official landing page for Jet Screenshot. The soft
 **Get the most recent version of Jet Screenshot today!**
 
 ---
-**Last updated:** 2026-09-17 13:07:29 UTC
+**Last updated:** 2026-09-17 17:58:42 UTC
